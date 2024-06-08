@@ -1,0 +1,5 @@
+*.pdf
+*.code-workspace
+tmp.c
+tmp
+spectre
